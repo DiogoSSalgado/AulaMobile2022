@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     title: {
-        fontSize: 30,
+        fontSize: 20,
         fontWeight: 'bold',
         textAlign: 'center',
         color: colors.green,
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
     icon: {
         fontSize: 24,
         color: colors.green,
-        padding: 10
+        padding: 10,
     },
     input: {
         fontSize: 18,

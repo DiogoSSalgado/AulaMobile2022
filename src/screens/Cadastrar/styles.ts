@@ -18,8 +18,8 @@ const styles = StyleSheet.create({
         margin: 10,
         flexDirection: 'row',
         alignItems: 'center',
+        color: colors.purple,
         borderWidth: 1,
-        borderColor: colors.purple,
         borderRadius: 5,
     },
     icon: {

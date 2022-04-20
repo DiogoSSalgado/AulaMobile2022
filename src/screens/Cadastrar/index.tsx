@@ -21,7 +21,7 @@ export default function Cadastrar() {
   return (
     <View style={styles.container}>
       <ImageBackground
-        source={require("../../assets/fundo.png")}
+        source={require("../../../assets/fundo.png")}
         style={styles.container}
       >
         <KeyboardAvoidingView>
